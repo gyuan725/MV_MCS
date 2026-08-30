@@ -1,1 +1,3 @@
-The repository contains the research data for simulating multi-view multi-criteria sorting problems. Each folder corresponds to a dataset, which contains the data for each view and flattened data with class label.
+Code and Deatiled Results
+
+This repository provides the source code, processed datasets, and detailed computational results associated with the numerical experiments reported in the paper.
