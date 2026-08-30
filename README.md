@@ -77,4 +77,5 @@ The subdirectories correspond to the main experiments and supplementary analyses
 - `benchmark/`: results for analysis of heterogeneous preference-model configurations using benchmark datasets.
 - `case/`: results for the case study.
 - `appendix/`: additional results reported in the appendix.
+  
 Where applicable, instance-level computational records are provided in `.pkl` format.
